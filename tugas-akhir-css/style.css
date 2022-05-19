@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+.navbar-brand {
+    font-family: "Sigmar One", sans-serif;
+    font-size: 1.5em;
+}
+.tombol {
+    background-color: rgb(255, 186, 154);
+    border-radius: 2em;
+    color: black;
+}
+.nav-link {
+    margin-right: 30px;
+}
+.nav-link:hover {
+    border-bottom: 2px solid black;
+    margin-bottom: -3px;
+}
+footer{
+    background-color: bisque;
+}
+.isi-footer{
+    padding: 10px;
+}
